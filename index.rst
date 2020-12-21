@@ -28,24 +28,17 @@ Godot Docs – *3.2* branch
             the "latest" (development) branch, but should be suitable to learn
             how to use stable Godot releases nevertheless.
 
-Welcome to the official documentation of `Godot Engine <https://godotengine.org>`__,
-the free and open source community-driven 2D and 3D game engine! If you are new
-to this documentation, we recommend that you read the
-:ref:`introduction page <doc_about_intro>` to get an overview of what this
-documentation has to offer.
+자유, 오픈소스이며 커뮤니티 주도로 개발되는 `Godot Engine <https://godotengine.org>`__의 공식 문서에 오신 것을 환영합니다!
+만약 이 문서에 처음 오셨다면 :ref:`introduction page <doc_about_intro>`을 읽고 이 문서에 어떤 내용이 들어있는지 알아보고 오시는 것을
+추천합니다.
 
-The table of contents below and in the sidebar should let you easily access the
-documentation for your topic of interest. You can also use the search function
-in the top left corner.
+아래 목차와 사이드바를 통해 원하는 내용을 쉽게 찾을 수 있습니다. 왼쪽 위에 있는 검색 기능도 활용하실 수 있습니다.
 
-.. note:: Godot Engine is an open source project developed by a community of
-          volunteers. The documentation team can always use your
-          feedback and help to improve the tutorials and class reference. If
-          you don't understand something, or cannot find what you
-          are looking for in the docs, help us make the documentation better
-          by letting us know!
+.. note:: Godot Engine은 자원봉사자들에 의해 개발되는 오픈소스 프로젝트입니다. 문서화 팀은 언제나
+          피드백을 활용해 튜토리얼이나 클래스 레퍼런스를 개선할 수 있습니다. 만약 이해하기 어려운 것이 있거나,
+          원하는 걸 못 찾으시겠다면, 그 부분을 알려주신다면 감사하겠습니다.
 
-          Submit an issue or pull request on the `GitHub repository
+          이슈를 보고하거나 PR을 낼 수 있는 `GitHub repository
           <https://github.com/godotengine/godot-docs/issues>`_,
           help us `translate the documentation
           <https://hosted.weblate.org/engage/godot-engine/>`_ into your
