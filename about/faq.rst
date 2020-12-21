@@ -3,26 +3,23 @@
 
 .. _doc_faq:
 
-Frequently asked questions
+자주 묻는 질문
 ==========================
 
-What can I do with Godot? How much does it cost? What are the license terms?
+Godot으로 무엇이 가능한가요? 돈은 얼마나 드나요? 무슨 라이선스가 적용되나요?
 ----------------------------------------------------------------------------
 
-Godot is `Free and Open-Source Software <https://en.wikipedia.org/wiki/Free_and_open-source_software>`_ available under the `OSI-approved <https://opensource.org/licenses/MIT>`_ MIT license. This means it is free as in "free speech" as well as in "free beer."
+Godot은 `OSI-approved <https://opensource.org/licenses/MIT>`_ MIT 라이선스 하의 `Free and Open-Source Software <https://en.wikipedia.org/wiki/Free_and_open-source_software>`_입니다. 이것은 "자유"로우면서 "무료"라는 뜻입니다.
 
-In short:
+간단히 정리하면:
 
-* You are free to download and use Godot for any purpose, personal, non-profit, commercial, or otherwise.
-* You are free to modify, distribute, redistribute, and remix Godot to your heart's content, for any reason, both non-commercially and commercially.
+* Godot을 아무 용도로 사용하셔도 무방합니다. 개인, 비영리적, 상업적인 용 이외에도 모두 가능합니다.
+* Godot을 수정하고, 배포하고, 재배포하고, 다른 컨텐츠와 섞어도 무방합니다. 비영리적, 상업적인 용도 등 어떤 이유에서든 가능합니다.
 
-All the contents of this accompanying documentation are published under
-the permissive Creative Commons Attribution 3.0 (`CC-BY 3.0 <https://creativecommons.org/licenses/by/3.0/>`_) license, with attribution
-to "Juan Linietsky, Ariel Manzur and the Godot Engine community."
+이 문서는 개방적인 Creative Commons Attribution 3.0 (`CC-BY 3.0 <https://creativecommons.org/licenses/by/3.0/>`_, "Juan Linietsky, Ariel Manzur and the Godot Engine community.") 라이선스 하에 배포됩니다.
 
-Logos and icons are generally under the same Creative Commons license. Note
-that some third-party libraries included with Godot's source code may have
-different licenses.
+로고와 아이콘은 같은 CC 라이선스 하에 있습니다. Godot의 소스 코드에 포함된 몇몇 제3자 라이브러리는
+다른 라이선스를 가질 수 있다는 점은 명심해두십시오.
 
 For full details, look at the `COPYRIGHT.txt <https://github.com/godotengine/godot/blob/master/COPYRIGHT.txt>`_ as well
 as the `LICENSE.txt <https://github.com/godotengine/godot/blob/master/LICENSE.txt>`_ and `LOGO_LICENSE.txt <https://github.com/godotengine/godot/blob/master/LOGO_LICENSE.md>`_ files
@@ -30,7 +27,7 @@ in the Godot repository.
 
 Also, see `the license page on the Godot website <https://godotengine.org/license>`_.
 
-Which platforms are supported by Godot?
+Godot은 무슨 플랫폼을 지원합니까?
 ---------------------------------------
 
 **For the editor:**
