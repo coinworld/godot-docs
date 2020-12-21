@@ -8,50 +8,42 @@ Introduction
     func _ready():
         $Label.text = "Hello world!"
 
-Welcome to the official documentation of Godot Engine, the free and open source
-community-driven 2D and 3D game engine! Behind this mouthful, you will find a
-powerful yet user-friendly tool that you can use to develop any kind of game,
-for any platform and with no usage restriction whatsoever.
+자유이며 오픈소스이며 커뮤니티 주도로 개발되는 2D와 3D 게임 엔진인 Godot Engine의 공식 문서에 오신 것을 환영합니다.
+이 말 속에는, 이 게임 엔진이 모든 플랫폼에서 작동하고, 모든 종류의 게임을 개발할 수 있고, 강력하면서도, 유저 친화적인 툴이면서도,
+사용에 있어서 아무 제한이 없다는 것을 말합니다.
 
-This page gives a broad presentation of the engine and of the contents
-of this documentation, so that you know where to start if you are a beginner or
-where to look if you need info on a specific feature.
+이 페이지는 엔진과 이 문서의 내용에 대해 포괄적인 이해를 다룹니다. 그래서 이 문서를 읽고 나시면 초보자라면
+어디서 시작해야 하는지, 아니면 이미 찾는 내용이 있었다면 그 내용이 어디에 있는지 알 수 있을 겁니다.
 
-Before you start
+시작하기 전에
 ----------------
 
-The :ref:`Tutorials and resources <doc_community_tutorials>` page lists
-video tutorials contributed by the community. If you prefer video to text,
-those may be worth a look.
+:ref:`Tutorials and resources <doc_community_tutorials>` 페이지는 커뮤니티가 만든 비디오 튜토리얼들이 있습니다.
+만약 글보다 영상을 선호하신다면 둘러보실 가치가 있을지도 모르겠네요.
 
-In case you have trouble with one of the tutorials or your project,
-you can find help on the various :ref:`Community channels <doc_community_channels>`,
-especially the Godot Discord community, Q&A, and IRC.
+튜토리얼을 읽다가 문제가 발생하거나, 프로젝트에 문제가 생기셨다면 다양한 :ref:`Community channels <doc_community_channels>`을
+통해서 도움을 청할 수 있습니다. Godot Discord 커뮤니티, Q&A와 IRC가 대표적입니다.
 
-About Godot Engine
+Godot Engine에 대해
 ------------------
 
-A game engine is a complex tool, and it is therefore difficult to present Godot
-in a few words. Here's a quick synopsis, which you are free to reuse
-if you need a quick writeup about Godot Engine.
+게임 엔진은 복잡한 도구입니다. 따라서 Godot을 단 몇 단어로만 표현하기에는 무리가 있죠.
+여기 간단한 개요가 있습니다. 만약 Godot Engine에 대해서 간단하게 소개할 필요가 있다면 그냥 갖다가 쓰셔도 무방합니다.
 
-    Godot Engine is a feature-packed, cross-platform game engine to create 2D
-    and 3D games from a unified interface. It provides a comprehensive set of
-    common tools, so users can focus on making games without having to
-    reinvent the wheel. Games can be exported in one click to a number of
-    platforms, including the major desktop platforms (Linux, macOS, Windows)
-    as well as mobile (Android, iOS) and web-based (HTML5) platforms.
+    Godot Engine은 여러 기능을 포함한, 2D와 3D 게임을 한 인터페이스에서 만들 수 있는 크로스
+    플랫폼 게임 엔진입니다. 이미 이 엔진에서 주로 쓰이는 툴들의 대부분을 제공하므로, 굳이 쓸데없이
+    다른 툴들을 쓰려고 하지 않고 그냥 게임 개발에만 집중할 수 있습니다. 게임은 단지 한번의 클릭만으로
+    주요 데스크탑 플랫폼 (Linux, macOS, Windows), 모바일 (Android, iOS), 그리고 웹 기반 (HTML5)로
+    내보낼 수 있습니다.
+    
+    Godot은 관대한 MIT 라이선스 하에 완전히 자유이며 오픈소스입니다. 아무 조건도 없고,
+    아무 로열티도 없습니다. 유저가 만든 게임은 그대로 유저들의 것입니다. Godot의 개발은 완전히
+    독립적이고 커뮤니티 주도 하에 이루어집니다. 따라서 유저들이 게임 엔진에 원하는 것이 있으면 그걸
+    구현하는 것도 가능합니다. `Software Freedom Conservancy <https://sfconservancy.org>`_ not-for-profit이
+    이를 지원합니다.
 
-    Godot is completely free and open source under the permissive MIT
-    license. No strings attached, no royalties, nothing. Users' games are
-    theirs, down to the last line of engine code. Godot's development is fully
-    independent and community-driven, empowering users to help shape their
-    engine to match their expectations. It is supported by the `Software
-    Freedom Conservancy <https://sfconservancy.org>`_ not-for-profit.
-
-For a more in-depth view of the engine, you are encouraged to read this
-documentation further, especially the :ref:`Step by step
-<toc-learn-step_by_step>` tutorial.
+이 엔진에 대해 더 알고 싶으시다면, 이 문서를 더 읽으시면 됩니다.
+:ref:`Step by step <toc-learn-step_by_step>` 부분을 추천합니다.
 
 About the documentation
 -----------------------
